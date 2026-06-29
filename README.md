@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is the apnacollege-demo Git Repository
 <br>
-Author - GeetaGirishK
+Author - GeetaGirishK(Apna college)
